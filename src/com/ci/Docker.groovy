@@ -1,4 +1,4 @@
-package com.docker-mvn
+package com.ci
 
 class Docker implements Serializable {
 
