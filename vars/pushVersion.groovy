@@ -3,5 +3,5 @@
 import com.example.Maven
 
 def call() {
-    return new Maven(this).incrementVersion()
+    return new Maven(this).pushVersion()
 }

@@ -1,6 +1,6 @@
 #!/usr/bin/env groovy
 
-import com.ci.Docker
+import com.example.Docker
 
 def call() {
     return new Docker(this).dockerLogin()
